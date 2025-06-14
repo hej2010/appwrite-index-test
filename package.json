@@ -1,0 +1,11 @@
+{
+  "name": "starter-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "type": "module",
+  "dependencies": {
+    "node-appwrite": "^16.0.0",
+    "@types/bun": "^1.1.17"
+  }
+}
